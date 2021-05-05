@@ -1,6 +1,10 @@
 {
   "env": {
     "base_url":"http://localhost:3000",
-    "register_url": "/register"
+    "register_url": "/register",
+    "attendance_url": "/attendance",
+    "attendance_list_url": "/attendance/list",
+    "base_url_api": "http://localhost:9000",
+    "student_list_url": "/studnets"
   }
 }
